@@ -1,0 +1,38 @@
+.container{
+    background-color:#b3d4db;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.userinfo-avatar{
+    width:149rpx;
+    height: 149rpx;
+    margin-top: 160rpx;
+}
+
+.userinfo-nickname{
+    color: #000;
+    font-size: 32rpx;
+    margin-top: 100rpx;
+    font-weight: bold;
+}
+
+.motto{
+    border: 1px solid #405f80;
+    width:250rpx;
+    height: 80rpx;
+    border-radius: 5rpx;
+    margin-top: 200rpx;
+    text-align: center;
+}
+
+.motto-font{
+    font-size: 32rpx;
+    line-height: 80rpx;
+    color: #405f80;
+}
+page{
+    background-color: #b3d4db;
+}

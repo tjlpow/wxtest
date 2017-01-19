@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="userinfo-avatar" src="../../images/avatar/1.png"></image>
+    <text class="userinfo-nickname">用户名</text>
+    <view class="motto" bindtap="onTap">
+        <text class="motto-font" bindtap="onTap">开始</text>
+    </view>
+</view>
